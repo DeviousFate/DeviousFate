@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thomas aka @DeviousFate
 - 👀 I’m interested in Software Engineering and CyberSec.
-- 🌱 I’m currently learning how to design REST and Node.js protocols.
+- 🌱 I’m currently learning how to design using REST and Node.js protocols.
 - 💞️ I’m looking to collaborate on anything and everything, looking to learn all I can.
 - 📫 Visit my personal website @ deviousfate.github.io
 - 😄 A message to other newbies like me, we gotta stick together, feel free to drop a line!
