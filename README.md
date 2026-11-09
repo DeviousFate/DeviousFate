@@ -15,6 +15,6 @@ My recent work includes a commercial credit-analysis platform proof of concept, 
 
 I bring a background in business and automotive finance to software development, helping me translate operational requirements into clear, usable systems.
 
-**Available for freelance development and junior software engineering opportunities.**
+**Available for development opportunities.**
 
 Explore my pinned repositories below to see my current work.
